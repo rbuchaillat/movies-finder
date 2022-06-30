@@ -1,0 +1,17 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Roboto, Ubuntu, Cantarell, sans-serif;
+  font-size: 62.5%;
+  background-color: #0d1d37;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
